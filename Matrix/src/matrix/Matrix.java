@@ -31,7 +31,7 @@ public class Matrix {
                 System.out.print(a[i][j] + " ");
             }
             System.out.print("\n");
-        }
+        } //dasdads
     }
         
     
